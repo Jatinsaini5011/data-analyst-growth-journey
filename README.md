@@ -1,6 +1,6 @@
 # Data Analyst Growth Journey 🚀
 
-Hi! I'm Jatin — currently on a 6-month journey to grow from ₹18K to ₹80K/month by mastering real-world data analysis.
+Hi! I'm Jatin — currently on a 6-month journey to grow my Salary to ₹80K/month by mastering real-world data analysis.
 
 ### 📘 Learning Roadmap
 - Python + Pandas + NumPy (Month 1)
