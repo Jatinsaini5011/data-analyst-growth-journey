@@ -1,0 +1,4 @@
+date,device_id,error_count,response_time_ms
+2025-10-01,dev1,0,120.0
+2025-10-01,dev2,2,210.0
+2025-10-03,dev4,1,300.0
